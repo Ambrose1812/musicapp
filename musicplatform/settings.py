@@ -1,3 +1,4 @@
+#Slobodan Malinkov
 """
 Django settings for musicplatform project.
 
