@@ -1,3 +1,4 @@
+#Slobodan Malinkov
 from django.apps import AppConfig
 
 
